@@ -42,7 +42,7 @@ This application features a **traditional university library aesthetic** with:
 ### 🌟 Core Features
 
 - Role-based access control (Student, Faculty, Admin/Librarian)
-- Automatic fine calculation (₹5/day for overdue)
+- Automatic fine calculation (5Tk/day for overdue)
 - Mobile-responsive design (bottom navigation on mobile)
 - Outside book entry system
 - Comprehensive transaction tracking
